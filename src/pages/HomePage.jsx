@@ -26,8 +26,8 @@ function HomePage() {
           <a href="#personal" className="hover:underline">
             Personal
           </a>
-          <a href="#about" className="hover:underline">
-            About
+          <a href="#contact" className="hover:underline">
+            Contact
           </a>
         </nav>
       </header>
@@ -82,9 +82,9 @@ function HomePage() {
           <Gallery />
         </section>
 
-        {/* About Section */}
+        {/* Contact Section */}
         <section
-          id="about"
+          id="contact"
           className="px-6 md:px-20 py-20 bg-white min-h-[60vh]"
           aria-label="About Me"
         >
