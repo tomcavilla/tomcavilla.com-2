@@ -7,7 +7,7 @@ function HomePage() {
     <div className="bg-neutral-100 font-sans text-black min-h-screen relative">
       {/* Background image behind all content */}
       <img
-        src="/main.jpg"
+        src="https://lh3.googleusercontent.com/pw/AP1GczN73ZSfyLUbyRu3Q438O2B4B4w1ggqKr1sZflNCjkS_670PzS4BVwIlpcTHDA6QN51Gu-AnVxT1yxmSS6ULaZCszi8LDHQa3m3KJsTlx3lqA8GppAUqqaxpIvH0r-IG-LscJUjzDU8DpG5UsV7zs6Lt=w1590-h1060-s-no-gm?authuser=0"
         alt="Background"
         className="fixed inset-0 w-full h-full object-cover z-0 opacity-80"
       />
